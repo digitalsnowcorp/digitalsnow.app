@@ -602,7 +602,7 @@ input[type=checkbox].bg-light + label:before, input[type=radio].bg-light + label
   background-color: #ffffff;
 }
 input[type=checkbox].bg-dark + label:before, input[type=radio].bg-dark + label:before {
-  background-color: #1c0a6a;
+  background-color: #110640;
 }
 input[type=checkbox].bg-action-1 + label:before, input[type=radio].bg-action-1 + label:before {
   background-color: #590a0f;
@@ -12380,7 +12380,7 @@ input[type=radio] + label:before {
   background-color: #ffffff !important;
 }
 .bg-dark {
-  background-color: #1c0a6a !important;
+  background-color: #110640 !important;
 }
 .bg-main {
   background-color: #1E0E62;
@@ -12419,7 +12419,7 @@ input[type=radio] + label:before {
   z-index: 0;
 }
 
-/* 
+/*
 picture[class^="color-filter-"], picture[class*=" color-filter-"]{
 	display:inline-block;
 	overflow:hidden;
